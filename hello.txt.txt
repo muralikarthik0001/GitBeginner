@@ -1,2 +1,3 @@
 Hello! I am learning Git from scratch
 I have successfully uploaded my first project to GitHub.
+I learned how to pull changes from GitHub.
